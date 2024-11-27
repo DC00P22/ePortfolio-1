@@ -1,8 +1,34 @@
-{"topf1Drivers2024": [
-    {"team":"Redbull Racing", "driver": "Max Verstappen", "driverNumber": 1, "seasonPoints": 403},
-    {"team":"Mclaren", "driver": "Lando Norris", "driverNumber": 4, "seasonPoints": 340},
-    {"team":"Ferrari", "driver": "Charles Leclerc", "driverNumber": 16, "seasonPoints": 319},
-    {"team":"Mclaren", "driver": "Oscar Piastri", "driverNumber": 81, "seasonPoints": 268},
-    {"team":"Ferrari", "driver": "Carlos Sainz", "driverNumber": 55, "seasonPoints": 259}
-]}
-
+{
+    "topf1Drivers2024": [
+        {
+            "team": "Redbull Racing",
+            "driver": "Max Verstappen",
+            "driverNumber": 1,
+            "seasonPoints": 403
+        },
+        {
+            "team": "Mclaren",
+            "driver": "Lando Norris",
+            "driverNumber": 4,
+            "seasonPoints": 340
+        },
+        {
+            "team": "Ferrari",
+            "driver": "Charles Leclerc",
+            "driverNumber": 16,
+            "seasonPoints": 319
+        },
+        {
+            "team": "Mclaren",
+            "driver": "Oscar Piastri",
+            "driverNumber": 81,
+            "seasonPoints": 268
+        },
+        {
+            "team": "Ferrari",
+            "driver": "Carlos Sainz",
+            "driverNumber": 55,
+            "seasonPoints": 259
+        }
+    ]
+}
